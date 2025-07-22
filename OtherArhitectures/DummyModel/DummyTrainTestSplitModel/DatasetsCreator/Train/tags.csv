@@ -1,0 +1,7 @@
+weight, tagName, alternatives
+1, Introduction, Introduction; Summary; Background; Problem Statement
+2, Related Work, Related Work; Previous Work; Related Works; Analysis; Literature Review; Problem Characterization; Dominant Approaches; Motion Synthesis; Preliminaries; Course Context
+3, Proposed Approach, Proposed Approach; Proposed Method; Experimental Setup; Method; Experminetal Platform; Methodology; Technical Implementation; Experimental Methodology; Materials and Methods; Dataset; Solution Outline; System Architecture; Implementation
+4, Results, Results; Result; Experimental Results; Experimental Findings; Discussion; Evaluation; Experiments; Main Results; Ablation Studies; Data analysis; Experiences; Additional Results; Benchmark
+5, Body, Body
+6, Conclusion, Conclusion; Conclusions; Conclusion; Concluding; Future Work; Future Directions; Limitations; Considerations
